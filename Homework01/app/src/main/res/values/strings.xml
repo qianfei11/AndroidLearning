@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework01</string>
+    <string name="find_people">Find People!</string>
+    <string name="people">Select and Click</string>
+    <string-array name="feature">
+        <item>我自己</item>
+        <item>班长</item>
+        <item>学委</item>
+        <item>团支书</item>
+    </string-array>
+</resources>
