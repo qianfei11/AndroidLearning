@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Homework04-layout</string>
+    <string name="number">Number</string>
+    <string name="password">Password</string>
+    <string name="input_number">Please input number</string>
+    <string name="input_password">Please input password</string>
+    <string name="login">Login</string>
+
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
