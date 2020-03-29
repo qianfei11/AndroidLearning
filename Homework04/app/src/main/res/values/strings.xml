@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Homework04</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="input_name">Please input name</string>
+    <string name="input_phone">Please input phone</string>
+    <string name="input_email">Please input email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="dance">Dance</string>
+    <string name="sing">Sing</string>
+    <string name="read">Read</string>
+
+    <string name="number">Number</string>
+    <string name="password">Password</string>
+    <string name="input_number">Please input number</string>
+    <string name="input_password">Please input password</string>
+    <string name="login">Login</string>
+
+    <string name="to">To</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
